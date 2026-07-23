@@ -48,29 +48,18 @@
 
 <hr/>
 
-### 📊 Статистика GitHub / GitHub Stats
+### 📈 Активность и статистика / Contribution & Activity
 
 <div align="center">
 
-  <!-- Карточка статистики GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zzazazaza27&show_icons=true&theme=radium&count_private=true&hide_border=true&hide=stars" />
-  
-  <!-- Топ используемых языков -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzazazaza27&layout=compact&theme=radium&hide_border=true&langs_count=8" />
+  <!-- График непрерывной активности (В стиле Dark Mode) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzazazaza27&theme=dark&hide_border=true&background=0d1117&ring=F72585&fire=F72585&currStreakLabel=F72585" alt="GitHub Streak" width="90%" />
 
   <br/><br/>
 
-  <!-- График непрерывной активности (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzazazaza27&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <!-- Интерактивный неоновый график активности -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zzazazaza27&theme=react-dark&hide_border=true&area=true" width="100%" />
 
-</div>
-
-<hr/>
-
-### 📈 График активности / Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zzazazaza27&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 <hr/>
