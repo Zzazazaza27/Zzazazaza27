@@ -13,13 +13,13 @@
   <br/><br/>
 
   <!-- 🌐 Соцсети и кнопки связи -->
-  <a href="https://t.me/">
+  <a href="https://t.me/Ministr_Govna">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://github.com/Zzazazaza27">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://gitlab.com/">
+  <a href="https://gitlab.com/Zaza_gartner">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
 
@@ -53,7 +53,7 @@
 <div align="center">
 
   <!-- Карточка статистики GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zzazazaza27&show_icons=true&theme=radium&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zzazazaza27&show_icons=true&theme=radium&count_private=true&hide_border=true&hide=stars" />
   
   <!-- Топ используемых языков -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzazazaza27&layout=compact&theme=radium&hide_border=true&langs_count=8" />
